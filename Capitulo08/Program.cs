@@ -8,6 +8,7 @@ namespace Capitulo08
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Nova Mensagem");
+            Console.WriteLine("Bom Dia !");
         }
     }
 }
