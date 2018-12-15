@@ -1,0 +1,6 @@
+/Users/Carlos/Projects/Capitulo08/Capitulo08/bin/Debug/Capitulo08.exe
+/Users/Carlos/Projects/Capitulo08/Capitulo08/bin/Debug/Capitulo08.pdb
+/Users/Carlos/Projects/Capitulo08/Capitulo08/obj/x86/Debug/Capitulo08.csprojAssemblyReference.cache
+/Users/Carlos/Projects/Capitulo08/Capitulo08/obj/x86/Debug/Capitulo08.csproj.CoreCompileInputs.cache
+/Users/Carlos/Projects/Capitulo08/Capitulo08/obj/x86/Debug/Capitulo08.exe
+/Users/Carlos/Projects/Capitulo08/Capitulo08/obj/x86/Debug/Capitulo08.pdb
