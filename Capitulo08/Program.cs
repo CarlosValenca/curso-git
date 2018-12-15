@@ -10,6 +10,8 @@ namespace Capitulo08
             Console.WriteLine("Nova Mensagem");
             Console.WriteLine("Bom Dia !");
             Console.WriteLine("Nova linda do Céu");
+
+            Console.WriteLine("Tenha um bom dia");
         }
     }
 }
